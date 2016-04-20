@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     <style name="AppTheme" parent="Theme.AppCompat">
@@ -10,9 +11,8 @@
 
     </style>
 
-    <style name="BeatBoxButton" parent="android:style/Widget.Holo.Button">
+    <style name="BeatBoxButton" parent="android:style/Widget.Material.Button">
         <item name="android:background">@drawable/button_beat_box</item>
     </style>
-
 
 </resources>
